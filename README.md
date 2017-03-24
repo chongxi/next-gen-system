@@ -1,3 +1,7 @@
+## Installation Open-ephys GUI and Plugins on Linux Machine
+https://open-ephys.atlassian.net/wiki/display/OEW/Linux
+
+
 ##  Next generation electrophysiology acquisition core
 This repository is a work in progress repository for next generation open
 source acquisition and closed-loop feedback system for multichannel
